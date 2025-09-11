@@ -1,0 +1,7 @@
+# robots.txt for IoT Manager
+# Allow all search engines to crawl the site
+User-agent: *
+Disallow:
+
+# Reference to your sitemap
+Sitemap: https://iotmanager.dev/sitemap-index.xml
